@@ -1,3 +1,12 @@
+Following this site Tutorial, all credites are for the autor: [Implementing PWA in the Next-13 application](https://medium.com/readytowork-org/implementing-pwa-in-the-next-13-application-3e46f6b3f6d8)
+
+I have modified the configuration of Next to latest version(14), and removed redundant or depreciated configurations.
+
+Parei no comeco da configuracao do meta dado:
+[Onde eu Parei](https://medium.com/readytowork-org/implementing-pwa-in-the-next-13-application-3e46f6b3f6d8#:~:text=The%20above%20code%20sets%20up%20a%20Next.js%20application%20with%20PWA%20capabilities%20using%20the%20next%2Dpwa%20package.%20It%20configures%20various%20options%20related%20to%20React%20Strict%20Mode%2C%20minification%2C%20service%20worker%20behavior%2C%20and%20PWA%20registration%20based%20on%20the%20development%20environment)
+.
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
