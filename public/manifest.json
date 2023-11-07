@@ -3,16 +3,46 @@
   "background_color": "#f8bc77",
   "icons": [
     {
-      "purpose": "maskable",
-      "sizes": "512x512",
-      "src": "icon512_maskable.png",
-      "type": "image/png"
+      "src": "icons/film-review-16.png",
+      "sizes": "16×16",
+      "type": "image/png",
+      "purpose": "maskable any"
     },
     {
-      "purpose": "any",
-      "sizes": "512x512",
-      "src": "icon512_rounded.png",
-      "type": "image/png"
+      "src": "icons/film-review-24.png",
+      "sizes": "24×24",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/film-review-32.png",
+      "sizes": "32×32",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/film-review-64.png",
+      "sizes": "64×64",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/film-review-128.png",
+      "sizes": "128×128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/film-review-256.png",
+      "sizes": "256×256",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/film-review-512.png",
+      "sizes": "512×512",
+      "type": "image/png",
+      "purpose": "maskable any"
     }
   ],
   "orientation": "any",
@@ -24,5 +54,6 @@
   "start_url": "https://moviereview.com.br/app/home",
   "scope": "https://moviereview.com.br/app/",
   "description": "Review your favorited and hated movies for your future knowledge",
-  "id": "https://moviereview.com.br/app/home"
+  "id": "https://moviereview.com.br/app/home",
+  "splash-pages":null
 }
