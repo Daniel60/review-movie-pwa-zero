@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 // Configuration options for Next.js
 const nextConfig = {
-  reactStrictMode: true, // Enable React strict mode for improved error handling
+  reactStrictMode: true,
+   // Enable React strict mode for improved error handling
   compiler: {
     removeConsole: process.env.NODE_ENV !== "development", // Remove console.log in production
   },
